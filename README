@@ -1,0 +1,20 @@
+Código del tutorial 'Integración de MyBatis con Spring Boot y Cache con Redis'
+
+Servidor de Redis montado con Docker:
+
+1) Arrancar el contenedor de redis
+
+    docker run -d --name redis_cache -p 6379:6379 redis
+
+2) Acceder al contenedor:
+
+    docker exec -it redis_cache bash
+
+ Ejecutamos el cliente de redis:
+
+    redis-cli
+
+ Activamos el monitor de Redis:
+
+    monitor
+
