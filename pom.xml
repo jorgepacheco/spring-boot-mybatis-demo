@@ -24,7 +24,7 @@
 	</properties>
 	<scm>
 	  <connection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo.git</connection>
-	  <developerConnection>scm:git:git@github.com:jpacheco/spring-boot-mybatis-demo</developerConnection>
+	  <developerConnection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo</developerConnection>
 	  <url>https://github.com/jpacheco/spring-boot-mybatis-demo.git</url>
 	  <tag>HEAD</tag>
 	</scm>
