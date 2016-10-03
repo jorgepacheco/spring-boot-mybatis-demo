@@ -17,7 +17,7 @@ public class SpringBootMybatisDemoApplicationTests {
 
 	@Autowired
 	private CourseMapper courseMapper;
-	@Test
+	//@Test
 	public void test() {
 		List<Course> output = courseMapper.getCourses();
 
