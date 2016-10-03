@@ -17,11 +17,11 @@ public class SpringBootMybatisDemoApplicationTests {
 
 	@Autowired
 	private CourseMapper courseMapper;
-	//@Test
+	@Test
 	public void test() {
-		List<Course> output = courseMapper.getCourses();
+		//List<Course> output = courseMapper.getCourses();
 
-		System.out.println(output);
+		//System.out.println(output);
 	}
 
 }

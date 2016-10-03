@@ -22,13 +22,13 @@ public class CourseServiceTest {
     //@Test
     public void shouldReturnAllCourses(){
         //given
-        CourseService service = new CourseService(courseMapper);
+      /*  CourseService service = new CourseService(courseMapper);
         when(courseMapper.getCourses()).thenReturn(buildListCourses());
         //when
         List<Course> courses = service.getCourses();
         //then
         MatcherAssert.assertThat(courses, is(not(empty())));
-        verify(courseMapper).getCourses();
+        verify(courseMapper).getCourses();*/
     }
 
     private List<Course> buildListCourses() {
