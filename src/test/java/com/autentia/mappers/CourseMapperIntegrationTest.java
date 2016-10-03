@@ -21,7 +21,7 @@ public class CourseMapperIntegrationTest {
     @Autowired
     private CourseMapper courseMapper;
 
-    //@Test
+    @Test
     public void getCourses() throws Exception {
       /*  List<Course> courses = courseMapper.getCourses();
         assertThat(courses, hasSize(2));*/
