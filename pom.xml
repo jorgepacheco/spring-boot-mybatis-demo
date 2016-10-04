@@ -4,7 +4,7 @@
 
 	<groupId>com.autentia</groupId>
 	<artifactId>spring-boot-mybatis-demo</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-mybatis-demo</name>
@@ -25,7 +25,7 @@
 	  <connection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo.git</connection>
 	  <developerConnection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo</developerConnection>
 	  <url>https://github.com/jpacheco/spring-boot-mybatis-demo.git</url>
-	  <tag>HEAD</tag>
+	  <tag>spring-boot-mybatis-demo-0.0.4</tag>
 	</scm>
 
 
