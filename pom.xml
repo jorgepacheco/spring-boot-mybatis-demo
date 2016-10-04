@@ -25,7 +25,7 @@
 	  <connection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo.git</connection>
 	  <developerConnection>scm:git:https://github.com/jorgepacheco/spring-boot-mybatis-demo</developerConnection>
 	  <url>https://github.com/jpacheco/spring-boot-mybatis-demo.git</url>
-	  <tag>master</tag>
+	  <tag>HEAD</tag>
 	</scm>
 
 
